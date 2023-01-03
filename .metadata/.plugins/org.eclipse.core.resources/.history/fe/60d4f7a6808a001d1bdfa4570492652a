@@ -1,0 +1,6 @@
+package com.cos.chatapp;
+
+@Do
+public class Chat {
+
+}
